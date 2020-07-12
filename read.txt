@@ -4,3 +4,4 @@ Inside a function or a block which is called local variables.
 Outside of all functions which is called global variables.
 In the definition of function parameters which are called formal parameters.
 Let us understand what are local and global variables, and formal parameters.
+Outside of all functions which is called global variables.
